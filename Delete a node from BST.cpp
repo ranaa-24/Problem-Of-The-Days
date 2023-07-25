@@ -1,4 +1,5 @@
 // REF: mycodeSchool.
+// also called deletion my merging
 Node* getMin(Node*root) // get min in right subtree
 {
     while(root!=NULL && root->left != NULL)
